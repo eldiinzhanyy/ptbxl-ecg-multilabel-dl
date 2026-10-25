@@ -20,7 +20,7 @@ contain the final results. Dataset counts and class weights of PTB-XL v1.0.3 can
 Five diagnostic superclasses (NORM, MI, STTC, CD, HYP), multi-label, sigmoid outputs, class-weighted
 binary cross-entropy. Official patient-disjoint split: folds 1–8 train, fold 9 validation (early stopping,
 per-class thresholds), fold 10 test. 411 records without a diagnostic superclass are excluded
-(21,799 → 21,388 records).
+(21,799 , 21,388 records).
 
 ## Structure
 
